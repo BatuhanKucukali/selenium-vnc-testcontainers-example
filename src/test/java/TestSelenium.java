@@ -16,7 +16,7 @@ public class TestSelenium {
     @Rule
     public BrowserWebDriverContainer chrome = new BrowserWebDriverContainer()
             .withDesiredCapabilities(DesiredCapabilities.chrome())
-            .withRecordingMode(RECORD_ALL, new File("out"));
+            .withRecordingMode(RECORD_ALL, new File("target"));
 
     @Test
     public void searchTitleTest() {
