@@ -1,4 +1,4 @@
-# Selenium Test with Testcontainers Example #
+# Selenium Test with Testcontainers #
 
 ## Prerequisites ##
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
